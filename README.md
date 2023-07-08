@@ -1,6 +1,6 @@
 # Book-site-using-redux
 
-## This website is an entertainment site that provide the user the ability to read books anytime and everywhere using any preferred device as this website is made to be user freindly site and easy to use also it is a fully responsive website that makes it work perfectly on any type of devices which include (Tablet / Mobile phone / PC... etc)
+## This website is an entertainment site that provide the user the ability to read books anytime and everywhere using any preferred device as this website is made to be user friendly site and easy to use also it is a fully responsive website that makes it work perfectly on any type of devices which include (Tablet / Mobile phone / PC... etc)
 
 ## The technologies that been used for this website are:
 
