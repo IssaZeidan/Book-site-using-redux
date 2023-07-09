@@ -7,10 +7,10 @@
 + Vs code
 + Figma
 + Trello
-+ Bootstrap
++ Tailwind
 + React
 + Redux
-+ Portal-Redux
++ React-Portal
 + Node
 + Express
 + PostgreSQL
